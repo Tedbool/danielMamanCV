@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/danielMamanCV/static/css/main.34143305.css",
+    "main.js": "/danielMamanCV/static/js/main.51231f84.js",
+    "static/js/787.9330533f.chunk.js": "/danielMamanCV/static/js/787.9330533f.chunk.js",
+    "static/media/Deliber-Mockup.svg": "/danielMamanCV/static/media/Deliber-Mockup.e5ae7e5813d1976094d491bd0cc57170.svg",
+    "static/media/Smarty Mockup Picture.svg": "/danielMamanCV/static/media/Smarty Mockup Picture.1ac9397d4175e3d0bf2fae8d5d880b96.svg",
+    "static/media/Bookademic Mockup Picutre.svg": "/danielMamanCV/static/media/Bookademic Mockup Picutre.be7f0452ca2a285bd04bab4f7fb862d9.svg",
+    "static/media/Bookademic Title.svg": "/danielMamanCV/static/media/Bookademic Title.573ff53e129db000230714c0c62a0fd9.svg",
+    "static/media/Deliber Title.svg": "/danielMamanCV/static/media/Deliber Title.109d99ae1fed06813e8aa31e796399d4.svg",
+    "static/media/Smarty Title.svg": "/danielMamanCV/static/media/Smarty Title.58739c064dd4f4e3c468c9e029647098.svg",
+    "index.html": "/danielMamanCV/index.html",
+    "static/media/Top left corner line.svg": "/danielMamanCV/static/media/Top left corner line.e13bc8def4fc5cdf8232d47f8354e09c.svg",
+    "static/media/Top left long line.svg": "/danielMamanCV/static/media/Top left long line.92d9865d78c74050c75e70a9f9212db6.svg",
+    "static/media/Home - line 1.svg": "/danielMamanCV/static/media/Home - line 1.61a7fe8e480418610bc29f3fb72909f3.svg",
+    "static/media/Home - line 2.svg": "/danielMamanCV/static/media/Home - line 2.d0466370bb26ed366cf4dd66de6082a2.svg",
+    "static/media/Home - line 3.svg": "/danielMamanCV/static/media/Home - line 3.200fd08d9f3ee1470ff5170d05807045.svg",
+    "static/media/Home - line 4.svg": "/danielMamanCV/static/media/Home - line 4.6e9072c114f3fc15ba87825e260188da.svg",
+    "static/media/Home - line 5.svg": "/danielMamanCV/static/media/Home - line 5.f675e959c231fb24610a2c5302e21dd5.svg",
+    "main.34143305.css.map": "/danielMamanCV/static/css/main.34143305.css.map",
+    "main.51231f84.js.map": "/danielMamanCV/static/js/main.51231f84.js.map",
+    "787.9330533f.chunk.js.map": "/danielMamanCV/static/js/787.9330533f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34143305.css",
+    "static/js/main.51231f84.js"
+  ]
+}

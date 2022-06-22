@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #cad6d3;
+        stroke-width: 2px;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <path id="Top_left_corner_line" data-name="Top left corner line" class="cls-1" d="M704.833,139.043v-20h20" transform="translate(-703.833 -118.043)"/>
+</svg>

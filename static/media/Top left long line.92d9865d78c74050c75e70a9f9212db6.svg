@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4" height="200" viewBox="0 0 4 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #cad6d3;
+        stroke-width: 4px;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <line id="Top_left_long_line" data-name="Top left long line" class="cls-1" y2="200" transform="translate(2)"/>
+</svg>
