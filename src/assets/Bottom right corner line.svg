@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #cad6d3;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="Bottom_right_corner_line" data-name="Bottom right corner line" class="cls-1" d="M724.833,119.043v20h-20" transform="translate(-704.833 -119.043)"/>
+</svg>

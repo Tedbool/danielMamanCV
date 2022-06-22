@@ -1,0 +1,37 @@
+<svg id="Projects_Pager_About_" data-name="Projects Pager (About)" xmlns="http://www.w3.org/2000/svg" width="20" height="254" viewBox="0 0 20 254">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #cad6d3;
+      }
+
+      .cls-2 {
+        fill: #cad6d3;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(0 78)">
+    <circle class="cls-3" cx="10" cy="10" r="10"/>
+    <circle class="cls-4" cx="10" cy="10" r="9.5"/>
+  </g>
+  <g id="Ellipse_4" data-name="Ellipse 4" class="cls-1">
+    <circle class="cls-3" cx="10" cy="10" r="10"/>
+    <circle class="cls-4" cx="10" cy="10" r="9.5"/>
+  </g>
+  <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="10" cy="10" r="10" transform="translate(0 156)"/>
+  <g id="Ellipse_3" data-name="Ellipse 3" class="cls-1" transform="translate(0 234)">
+    <circle class="cls-3" cx="10" cy="10" r="10"/>
+    <circle class="cls-4" cx="10" cy="10" r="9.5"/>
+  </g>
+  <line id="Line_1" data-name="Line 1" class="cls-1" y2="33" transform="translate(10 110.5)"/>
+  <line id="Line_28" data-name="Line 28" class="cls-1" y2="33" transform="translate(10 32.5)"/>
+  <line id="Line_2" data-name="Line 2" class="cls-1" y2="33" transform="translate(10 188.5)"/>
+</svg>
